@@ -1,0 +1,36 @@
+{
+   "name":"iobroker.sp108e",
+   "version":"0.0.1",
+   "description":"SP108E adapter for ioBroker",
+   "author":{
+      "name":"Meinhard Schnoor",
+      "email":"Meinhard.Schnoor@t-online.de"
+   },
+   "homepage":"https://github.com/MeinhardSchnoor42/ioBroker.SP108EAdapter",
+   "license":"MIT",
+   "keywords":[
+      "ioBroker",
+      "sp108e",
+      "LED controller",
+      "Smart Home",
+      "home automation"
+   ],
+   "repository":{
+      "type":"git",
+      "url":"https://github.com/MeinhardSchnoor42/ioBroker.SP108EAdapter"
+   },
+   "dependencies":{
+      "@iobroker/adapter-core":"^1.0.3"
+   },
+   "devDependencies":{
+
+   },
+   "main":"main.js",
+   "scripts":{
+
+   },
+   "bugs":{
+      "url":"https://github.com/MeinhardSchnoor42/ioBroker.SP108EAdapter/issues"
+   },
+   "readmeFilename":"README.md"
+}
